@@ -1,4 +1,4 @@
-# AI 법률 시뮬레이터 — 로컬 프로토타입
+# AI 법률 시뮬레이터 Law-bot
 ## Quickstart
 python -m venv .venv
 
